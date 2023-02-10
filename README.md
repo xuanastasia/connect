@@ -25,7 +25,7 @@ We manage to achieve what we envision, to bridge the gap for social good through
 Collaboration with Zoom, Google meet, skype, if we manage to develop an elaborated sign language to text model.
 
 
-## References
+## References and library used
 https://github.com/cgoxo/hand-sign-recognition/blob/main/README.md
 
 ## Team: 
