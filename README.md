@@ -29,9 +29,12 @@ Collaboration with Zoom, Google meet, skype, if we manage to develop an elaborat
 https://github.com/cgoxo/hand-sign-recognition/blob/main/README.md
 
 ## Team: 
-Database and Training Model: Sparsh, Cynthia, Yi Xuan 
+
+Database creation: Sparsh, Cynthia
+
+Training Model: Sparsh, Cynthia, Yi Xuan
+
 Ideation: Sparsh, Cynthia, Yi Xuan, Yesenia
+
 Slide decks and pitching: Yesenia, Yi Xuan
-* Run `collect-data.py` to set the hand histogram for creating gestures. 
-* Train the model using Keras by running `train.py`.
-* Run `predict.py`. This will open up the gesture recognition window which will use your webcam to interpret the trained Indian Sign Language gestures.
+
