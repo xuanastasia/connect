@@ -1,4 +1,6 @@
 # NUS Hack 4 Good 2023
+## Connect - Making the Deaf Sound
+
 ## Inspiration
 Hearing loss can affect a person in three main ways:
 (i) Fewer educational and job opportunities due to impaired communication
