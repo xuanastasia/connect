@@ -1,4 +1,4 @@
-# connect
+# Connect
 Making the deaf sound through computer vision
 
 ## Inspiration
@@ -27,5 +27,10 @@ We manage to achieve what we envision, to bridge the gap for social good through
 ## What's next for Connect
 Collaboration with Zoom, Google meet, skype, if we manage to develop an elaborated sign language to text model.
 
-## references
+## References
 https://github.com/cgoxo/hand-sign-recognition/blob/main/README.md
+
+## Team: 
+Database and Training Model: Sparsh, Cynthia, Yi Xuan 
+Ideation: Sparsh, Cynthia, Yi Xuan, Yesenia
+Slide decks and pitching: Yesenia, Yi Xuan
